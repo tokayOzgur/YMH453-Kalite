@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimKaliteTest", "YazilimKaliteTest\YazilimKaliteTest.csproj", "{B4D6FB4B-E46F-485B-95EA-ACD740F07579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{376A6988-068F-4F96-9E9B-D16B1E99D6A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D6FB4B-E46F-485B-95EA-ACD740F07579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D6FB4B-E46F-485B-95EA-ACD740F07579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D6FB4B-E46F-485B-95EA-ACD740F07579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D6FB4B-E46F-485B-95EA-ACD740F07579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376A6988-068F-4F96-9E9B-D16B1E99D6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376A6988-068F-4F96-9E9B-D16B1E99D6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376A6988-068F-4F96-9E9B-D16B1E99D6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376A6988-068F-4F96-9E9B-D16B1E99D6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B73D6738-32F9-4872-B9EB-984244DBC99A}
+	EndGlobalSection
+EndGlobal

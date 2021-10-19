@@ -1,0 +1,7 @@
+E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\bin\Debug\YazilimKaliteTest.exe.config
+E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\bin\Debug\YazilimKaliteTest.exe
+E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\bin\Debug\YazilimKaliteTest.pdb
+E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.csproj.AssemblyReference.cache
+E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.csproj.CoreCompileInputs.cache
+E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.exe
+E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.pdb
