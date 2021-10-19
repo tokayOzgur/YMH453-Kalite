@@ -1,0 +1,7 @@
+E:\Orenda\Github\YMH453-Kalite\Lab2\LabH3\LabH3\bin\Debug\LabH3.exe.config
+E:\Orenda\Github\YMH453-Kalite\Lab2\LabH3\LabH3\bin\Debug\LabH3.exe
+E:\Orenda\Github\YMH453-Kalite\Lab2\LabH3\LabH3\bin\Debug\LabH3.pdb
+E:\Orenda\Github\YMH453-Kalite\Lab2\LabH3\LabH3\obj\Debug\LabH3.csproj.AssemblyReference.cache
+E:\Orenda\Github\YMH453-Kalite\Lab2\LabH3\LabH3\obj\Debug\LabH3.csproj.CoreCompileInputs.cache
+E:\Orenda\Github\YMH453-Kalite\Lab2\LabH3\LabH3\obj\Debug\LabH3.exe
+E:\Orenda\Github\YMH453-Kalite\Lab2\LabH3\LabH3\obj\Debug\LabH3.pdb
