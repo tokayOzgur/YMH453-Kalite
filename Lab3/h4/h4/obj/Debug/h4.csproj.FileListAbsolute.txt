@@ -1,0 +1,7 @@
+E:\Orenda\Github\YMH453-Kalite\Lab3\h4\h4\bin\Debug\h4.exe.config
+E:\Orenda\Github\YMH453-Kalite\Lab3\h4\h4\bin\Debug\h4.exe
+E:\Orenda\Github\YMH453-Kalite\Lab3\h4\h4\bin\Debug\h4.pdb
+E:\Orenda\Github\YMH453-Kalite\Lab3\h4\h4\obj\Debug\h4.csproj.AssemblyReference.cache
+E:\Orenda\Github\YMH453-Kalite\Lab3\h4\h4\obj\Debug\h4.csproj.CoreCompileInputs.cache
+E:\Orenda\Github\YMH453-Kalite\Lab3\h4\h4\obj\Debug\h4.exe
+E:\Orenda\Github\YMH453-Kalite\Lab3\h4\h4\obj\Debug\h4.pdb
