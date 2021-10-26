@@ -75,7 +75,108 @@ namespace h4
                 Console.Write(" " + item);
             }
             Console.WriteLine();
+
+            // Sonuç
+
+            //  1-2-4-11-5-12-6-13-15-8-16-10 ---- 3
+            //  1-2-3 
+            //  1-2-4-5-12-6-13-15-8-16-10 ---- 3
+            //  1-2-4-11-5-6-13-14-8-16-10 ---- 3
+            //  1-2-4-5-6-7-8-9-18-10 --------- 3
+            //  1-2-4-5-6-7-8-9-18-17 --------- 3
+            // vb
             #endregion
+
+            Console.WriteLine("\n******************************************************************************");
+
+            #region Uyg2 - Binary
+            // Girilen sayıyı ikili kod (binary) haline çeviren prgoramı yazın
+
+            int value = 8;
+            string binary = Convert.ToString(value, 2);
+            Console.WriteLine("\n \n Binary değeri= " + binary);
+
+            //Sonuç
+            // 1-2-3-4
+            #endregion
+
+            Console.WriteLine("\n******************************************************************************");
+
+            #region Uyg3 - 
+
+            void maxsum(int maxint, int val)
+            {
+                int result = 0;
+                int i = 0;
+                if (val < 0)
+                {
+                    val = -val;
+                }
+                while (i < val && result <= maxint)
+                {
+                    i = i + 1;
+                    result = result + i;
+                }
+                if (result <= maxint)
+                {
+                    Console.WriteLine(result);
+                }
+                else
+                {
+                    Console.WriteLine("too large");
+                }
+            }
+            maxsum(10, 5);
+
+            // Sonuç
+
+            // 1-2-3-7-4-5-6
+            // 1-2-3-7-4-8-6
+            // 1-2-3-4-5-6
+            // 1-2-3-4-8-6
+            #endregion
+
+            Console.WriteLine("\n******************************************************************************");
+
+            #region Uyg4 - 
+            int count = 0;
+            Console.WriteLine("a değerini giriniz: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("b değerini giriniz: ");
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            if (a == 0)
+            {
+                while (b > 0)
+                {
+                    b--;
+                    count++;
+                }
+            }
+            else if (a > 0)
+            {
+                while (b < 0)
+                {
+                    b++;
+                    count--;
+                }
+            }
+            else
+            {
+                a = b;
+            }
+            Console.WriteLine("\n" + a + "\n" + b + "\n" + count);
+
+            // Sonuç
+
+            // 1-2-3-4-5-6
+            // 1-2-3-7-8-9-10-4-11-12
+            // 1-2-3-7-8-9-10-4-11-13-14-12
+            // 1-2-3-7-8-9-10-4-5-6
+
+            #endregion
+
+            Console.WriteLine("\n******************************************************************************");
 
             Console.ReadLine();
         }
