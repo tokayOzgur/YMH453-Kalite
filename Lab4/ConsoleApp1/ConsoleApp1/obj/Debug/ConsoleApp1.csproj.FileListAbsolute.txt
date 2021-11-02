@@ -1,0 +1,7 @@
+E:\Orenda\Github\YMH453-Kalite\Lab4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Orenda\Github\YMH453-Kalite\Lab4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Orenda\Github\YMH453-Kalite\Lab4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Orenda\Github\YMH453-Kalite\Lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Orenda\Github\YMH453-Kalite\Lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Orenda\Github\YMH453-Kalite\Lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Orenda\Github\YMH453-Kalite\Lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

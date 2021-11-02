@@ -1,0 +1,44 @@
+2) Aşağıda verilen kodun RFC değerini belirleyiniz (25p).
+
+public class Gezegen
+{
+	protected int gezegenSayisi = 9;
+	protected string sisteminAdı = "Güneş Sistemi";
+	public virtual void bilgiAl(){
+		ConsoleWriteLine("Gezegen Sayısı : {0} , gezegenSayisi );
+		ConsoleWriteLine(" Sistemin Adı : {0} , sisteminAdı );
+		ConsoleWriteLine();
+	}
+}
+	
+class Mars : Gezegen 
+{
+	public string gezegenAdı = "Mars";
+	public override void bilgiAl(){
+		base.bilgiAl();
+		Console.WriteLine("Gezegen Adı: {0} , gezegenAdı);
+	}
+}
+
+class Uydu : Mars 
+{
+	private string uyduAdı = "Deimos";
+	public void bilgiAl()
+	{
+		base.bilgiAl();
+		Console.WriteLine("Uydusunun Adı : {0} , uyduAdı);
+	}
+}
+	
+publis static void Main()
+{
+Mars m  = new Mars();
+m.bilgiAl(); // Mars - Gezegen
+
+Uydu u = new Uydu();
+u.bilgiAl(); // Uydu - Mars - Gezegen
+
+Console.ReadLine();
+}
+
+RFC = 5 veya 3
