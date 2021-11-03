@@ -36,24 +36,24 @@ namespace YazilimKaliteTest
         public class Akademisyenler
         {
             public string kAdi { get; set; }
-            public string kSoyadi { get; set; }
             public string sifre { get; set; }
+            public string kAdSoyadi { get; set; }
+            public string unvan { get; set; }
             public string mail { get; set; }
             public string adres { get; set; }
-            public string unvan { get; set; }
             public string sonuc { get; set; } // Kıyaslamanın yapılması için konulan prop'tur.
             // Böylelikle burada değerler direkt olarak test edilebilincektir.
 
-            public Akademisyenler(string kAdi, string kSoyadi, string sifre, string mail, string adres, string unvan)
+            public Akademisyenler(string kAdi, string sifre, string kAdSoyadi, string unvan, string mail, string adres)
             {
                 this.kAdi = kAdi;
-                this.kSoyadi = kSoyadi;
                 this.sifre = sifre;
+                this.kAdSoyadi = kAdSoyadi;
                 this.mail = mail;
                 this.adres = adres;
                 this.unvan = unvan;
 
-                this.sonuc = kAdi + " " + kSoyadi + " " + sifre + " " + mail + " " + adres + " " + unvan; //Tüm değerleri buraya ekliyip kontrol işlemini yapıyoruz.
+                this.sonuc = kAdi + " " + sifre + " " + kAdSoyadi + " " + unvan + " " + mail + " " + adres; //Tüm değerleri buraya ekliyip kontrol işlemini yapıyoruz.
             }
         }
         static void Main(string[] args)
