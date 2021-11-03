@@ -29,11 +29,19 @@ namespace UnitTestProject1
             Assert.AreEqual(sonuc, 10);
         }
 
+        // Diğer sorulardan tam puan almış olup kurtarma haftasında düeltmek istediğim tek uygulama aşağıdakidir.
+        // Bu uygulama 45p değerindedir.
         [TestMethod]
         public void TestAkad()
         {
-            Uyg1.Akademisyenler klas = new Uyg1.Akademisyenler("a", "b", "c", "d", "e", "f");
-            Assert.AreEqual(klas, "a", "b", "c", "d", "e", "f");
+            /*
+             * her nesneye birim test uygulanabilir. Ama daha hızlı bir sonuç için Sınıftaki nesneler 
+             * tek bir nesne üzerine alınıp. Kontrol işlemi yapılıyor.
+             * Diğer Sorulardan tam puan almış olup tek eksiğim bu uygulama sorusudur.
+            */
+            Uyg1.Akademisyenler akd = new Uyg1.Akademisyenler("a", "b", "c", "d", "e", "f");
+            string beklenen = "a b c d e f"; //beklenen değerimizi bu şekilde belirttik
+            Assert.AreEqual(beklenen, akd.sonuc);
         }
 
 

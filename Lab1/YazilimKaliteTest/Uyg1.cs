@@ -41,6 +41,8 @@ namespace YazilimKaliteTest
             public string mail { get; set; }
             public string adres { get; set; }
             public string unvan { get; set; }
+            public string sonuc { get; set; } // Kıyaslamanın yapılması için konulan prop'tur.
+            // Böylelikle burada değerler direkt olarak test edilebilincektir.
 
             public Akademisyenler(string kAdi, string kSoyadi, string sifre, string mail, string adres, string unvan)
             {
@@ -50,12 +52,20 @@ namespace YazilimKaliteTest
                 this.mail = mail;
                 this.adres = adres;
                 this.unvan = unvan;
+
+                this.sonuc = kAdi + " " + kSoyadi + " " + sifre + " " + mail + " " + adres + " " + unvan; //Tüm değerleri buraya ekliyip kontrol işlemini yapıyoruz.
             }
         }
         static void Main(string[] args)
         {
-            string a = TersYazdir("deneme");
-            Console.WriteLine(a);
+
+            Akademisyenler akd = new Akademisyenler("a", "b", "c", "d", "e", "f");
+            string beklenen = "a b c d e f";
+            if (beklenen == akd.sonuc)
+            {
+                Console.WriteLine("İşlem doğru");
+            }
+
             Console.ReadLine();
         }
 

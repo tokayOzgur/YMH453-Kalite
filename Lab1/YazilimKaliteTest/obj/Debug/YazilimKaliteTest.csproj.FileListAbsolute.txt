@@ -5,3 +5,10 @@ E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\obj\Debug\YazilimKaliteT
 E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.csproj.CoreCompileInputs.cache
 E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.exe
 E:\Orenda\Uygulamar\YazilimKaliteTest\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.pdb
+E:\Orenda\Github\YMH453-Kalite\Lab1\YazilimKaliteTest\bin\Debug\YazilimKaliteTest.exe.config
+E:\Orenda\Github\YMH453-Kalite\Lab1\YazilimKaliteTest\bin\Debug\YazilimKaliteTest.exe
+E:\Orenda\Github\YMH453-Kalite\Lab1\YazilimKaliteTest\bin\Debug\YazilimKaliteTest.pdb
+E:\Orenda\Github\YMH453-Kalite\Lab1\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.csproj.AssemblyReference.cache
+E:\Orenda\Github\YMH453-Kalite\Lab1\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.csproj.CoreCompileInputs.cache
+E:\Orenda\Github\YMH453-Kalite\Lab1\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.exe
+E:\Orenda\Github\YMH453-Kalite\Lab1\YazilimKaliteTest\obj\Debug\YazilimKaliteTest.pdb
