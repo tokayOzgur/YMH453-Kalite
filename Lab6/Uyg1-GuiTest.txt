@@ -1,0 +1,22 @@
+
+***** Uygulama 1 *****
+
+* Ürün Adı ile Ürün Fiyatı sola hizalı mı?
+* Her iki textbox da aynı hizada mı?
+* Ürün Fiyatı textbox ına sadece int değer giriliyor mu? 
+* Ürün Adı textbox ına sadece string değer giriliyor mu? 
+* İndirim Oranı kısmında bulunan radio button ların hepsi seçilebiniliyor mu?
+* Seçilen bir radio button ın sonuca etkisi var mı?
+* TAB tuşu kullanılarak diğer alanlara sıralı bir şekilde geçiş yapılabiliyor mu?
+* Textbox lara yazılan değerler düzgün bir şekilde hizalanabiliyor mu?
+* X tuşuna basınca sistem uyarı verip kapanıyor mu?
+* Ekran büyütme tuşuna basınca ekran büyüyor mu?
+* Ekran küçültme tuşuna basınca ekran küçülüyor mu?
+* Form başlığı sola hizalı değil?
+________________________________________________________________________________________
+
+
+
+
+
+
