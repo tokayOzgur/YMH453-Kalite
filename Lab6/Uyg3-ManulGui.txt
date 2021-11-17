@@ -1,0 +1,20 @@
+* GUI elementleri farklı boyutlarda sorunsuz çalışıyor
+* Eposta alanı zorunlu halde tutulmuş
+* Şifre alanı zorunlu halde tutulmuş
+* Yanlış giriş işleminde giriş gerçekleştirilmedi, uyarı hatası verildi.
+* Ürün arama işleminde doğru ürüne ulaşma gerçekleşti.
+* Ürün sayfası gui elemenleti farklı boyutlarda da çalışıyor.
+* Sepete ekleme işlemi başarılı bir şekilde gerçekleşti.
+* Sepete ekleme işleminde ürün sepete başarıyla eklendi.
+* Sepeti güncelleme kısmı başarılı .
+* Farklı kategorilerde arama kolaylığı mevcut.
+* Çok fazla üründen dolayı doğru ürüne ulaşma problemi yaşanıyor.
+* Arama sonucundaki ürünler filtrelenbiliniyor.
+* Sepetteki ürün miktarını değiştirme ve ürünü sepetten çıkartmak mümkün
+* Çoklu filtreleme yapılırken eksik ürün gösterme gerçekleşti.
+* Bir ürün alırken popups bildirimleri gerçekleşti
+* Ürün seçiminde detaylı ürün bilgileri mevcut.
+* Ürün alımında 3D security mevcut kullanımda.
+* Ürün ödemesi hem kredi kartı ile hemde cüzdan ile ödemesi yapılıyor
+* İndirim kuponları ürüne uygulandığında ürün fiyatında indirim gerçekleşti.
+* Yanlı İndirim kupon girişinde hata verildi.
